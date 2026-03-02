@@ -68,6 +68,7 @@ header{
 
 .error{
     color: black;
+    background-color: yellow;
     text-align: center;
     font-weight: bold;
     margin: 20px;
